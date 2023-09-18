@@ -59,6 +59,9 @@ main h2{
     margin-left: 210px;
     
 }
+span{
+    animation: color ;
+}
 
 footer{
     display: block;
