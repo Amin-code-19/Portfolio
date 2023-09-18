@@ -1,0 +1,81 @@
+body {
+    background-color: #08192b; 
+    color: snow;
+    
+}
+
+nav{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 0%;
+    width: 100%; 
+}
+nav h3{
+    display: inline;
+    font-size: 28px;
+    
+}
+nav div.links{
+    
+    display: flex;
+    list-style-type: none;
+    
+    text-align: center;
+    align-items: center;
+    
+    
+}
+div.links a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: snow;
+    
+}
+
+img{
+    height:40%;
+    width: 40%;
+}
+#programming{
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+}
+
+main div{
+    display: flex;
+    align-items: center;
+    padding-top: 0;
+    padding-bottom: 0s;
+    
+}
+main h2{
+    display: inline;
+    font-size: 45px;
+    margin-right: 90px;
+    margin-left: 210px;
+    
+}
+
+footer{
+    display: block;
+    margin-left: 25%;
+    font-size: large;
+    font-style: italic;
+    
+
+}
+
+button{
+    display: block;
+    background-color: #08192b;
+    color:aliceblue;
+    margin-left: 50%;
+    margin-right: 50%;
+    border-style: none;
+    font-weight: bold;
+    font-size: 15px;
+}
